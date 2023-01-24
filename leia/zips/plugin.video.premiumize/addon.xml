@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<addon id="plugin.video.premiumize" version="0.0.14" name="Premiumize Cloud (for Leia 18.9 and older)" provider-name="premiumize.me">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse your Premiumize.me cloud</summary>
+        <description>This addon can be used to browse and stream any videos present in your Premiumize.me cloud</description>
+		<disclaimer>This addon is deprecated and is no longer updated. This addon supports Kodi up to version Leia 18.9.</disclaimer>
+        <platform>all</platform>
+        <website>https://www.premiumize.me</website>
+		<forum>https://www.premiumize.me/help</forum>
+		<news>v0.0.14 Rolled back recent changes which resulted in hiding some video types, fixed file transfer view</news>
+	</extension>
+</addon>

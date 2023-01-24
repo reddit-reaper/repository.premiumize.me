@@ -1,0 +1,49 @@
+[B]Version 0.0.14[/B]
+- v0.0.14 Rolled back recent changes which were hiding some videos, fixed file transfer view
+
+[B]Version 0.0.13[/B]
+- Changed version octets to comply with Kodi API standards to auto-update from repository. Changed Addon metadata
+
+[B]Version 0.0.12.3[/B]
+- Support for posters
+
+[B]Version 0.0.12.2[/B]
+- Various fixes for new API
+
+[B]Version 0.0.11[/B]
+- Show parent folders of videos
+
+[B]Version 0.0.10[/B]
+- Fix s&e when using airdate
+
+[B]Version 0.0.9[/B]
+- Add NZB Support
+- Update artwork
+
+[B]Version 0.0.8[/B]
+- Set content types for Krypton
+- Add unique UA
+- Skip transcodes that don't exist
+
+[B]Version 0.0.6[/B]
+- Change Download label
+- Update Translations
+
+[B]Version 0.0.5[/B]
+- Make addon self updating
+
+[B]Version 0.0.4[/B]
+- Fail more gracefully when premiumize has issues.
+
+[B]Version 0.0.3[/B]
+- Add Download Torrent function
+- Add Download Video function
+- Add Paste Torrent
+- Add video filter exclusion list
+- Add duration filter
+
+[B]Version 0.0.2[/B]
+- Add Torrent working
+
+[B]Version 0.0.1[/B]
+- Initial version

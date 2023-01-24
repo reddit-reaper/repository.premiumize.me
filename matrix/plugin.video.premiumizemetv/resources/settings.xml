@@ -1,0 +1,11 @@
+<settings>
+        <setting id="customer_id" type="text" label="30500"/>
+        <setting id="pin" type="text" label="30501" option="hidden"/> 
+        <setting id="show_transcode" type="bool" label="30503" default="true"/>
+        <setting id="video_filter" type="text" label="30504" default=""/>
+        <setting id="duration_filter" type="slider" label="30511" default="0" range="0,60" option="int"/>
+        <setting id="down_progress" type="enum" label="30505" lvalues="30506|30507|30508" default="1" enable="true"/>
+        <setting id="down_prompt" type="bool" label="30509" default="true"/>
+        <setting id="down_folder" type="folder" label="30510" default="special://userdata" enable="eq(-1,false)"/>        
+        <setting id="addon_debug" type="bool" label="Addon debug" default="true" visible="false"/>
+</settings>

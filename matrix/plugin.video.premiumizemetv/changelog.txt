@@ -1,0 +1,6 @@
+[B]Version 0.0.3[/B]
+- Renamed addon, fixed add
+[B]Version 0.0.2[/B]
+- Renamed PIN to API Key
+[B]Version 0.0.1[/B]
+- Initial version of the Python3 port

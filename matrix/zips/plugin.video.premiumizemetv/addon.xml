@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<addon id="plugin.video.premiumizemetv" version="0.0.3" name="Premiumize.me TV" provider-name="premiumize.me">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse your Premiumize.me cloud</summary>
+        <description>This addon can be used to browse and stream any videos present in your Premiumize.me cloud</description>
+		<disclaimer>This addon supports Kodi from version Matrix 19.0.</disclaimer>
+        <platform>all</platform>
+        <website>https://www.premiumize.me</website>
+		<news>v0.0.3 renamed addon, fixed add</news>
+		<language>en</language>
+	</extension>
+</addon>

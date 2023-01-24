@@ -1,0 +1,166 @@
+# Addon Name: Premiumize Cloud
+# Addon id: plugin.video.premiumize
+# Addon Provider: TV Addons
+# Translators:
+# eidermar, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: Premiumize Cloud\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-03-19 17:31+0000\n"
+"Last-Translator: eidermar <chr_elogwq@rcpt.at>\n"
+"Language-Team: German (http://www.transifex.com/tv-addons/premiumize-cloud/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Show Transfer List"
+msgstr "Zeige Transfer Liste"
+
+msgctxt "#30001"
+msgid "Show File List"
+msgstr "Zeige Datei Liste"
+
+msgctxt "#30002"
+msgid "***Clear All Finished***"
+msgstr "***Alle Beendeten löschen***"
+
+msgctxt "#30003"
+msgid "Complete"
+msgstr "Vollständig"
+
+msgctxt "#30004"
+msgid "Abort Transfer"
+msgstr "Transfer abbrechen"
+
+msgctxt "#30005"
+msgid "Delete Transfer"
+msgstr "Transfer löschen"
+
+msgctxt "#30006"
+msgid "Transcode"
+msgstr "Transkodieren"
+
+msgctxt "#30007"
+msgid "Delete Item"
+msgstr "Element löschen"
+
+msgctxt "#30008"
+msgid "Enter Folder Name"
+msgstr "Ordner Name eingeben"
+
+msgctxt "#30009"
+msgid "Create Folder"
+msgstr "Ordner erstellen"
+
+msgctxt "#30010"
+msgid "Delete Folder"
+msgstr "Ordner löschen"
+
+msgctxt "#30011"
+msgid "Rename Folder"
+msgstr "Ordner umbenennen"
+
+msgctxt "#30012"
+msgid "Add Torrent"
+msgstr "Torrent hinzufügen"
+
+msgctxt "#30013"
+msgid "Select Torrent File"
+msgstr "Torrent Datei auswählen"
+
+msgctxt "#30014"
+msgid "Torrent Added"
+msgstr "Torrent hinzugefügt"
+
+msgctxt "#30015"
+msgid "Failed to create directory"
+msgstr "Erstellen des Verzeichnis fehlgeschlagen"
+
+msgctxt "#30016"
+msgid "Downloading: %s..."
+msgstr "Herunterladen: %s..."
+
+msgctxt "#30017"
+msgid "Failed to write file"
+msgstr "Schreiben der Datei fehlgeschlagen"
+
+msgctxt "#30018"
+msgid "Download Complete: %s"
+msgstr "Download vollständig: %s"
+
+msgctxt "#30019"
+msgid "Error (%s) during download: %s"
+msgstr "Fehler (%s) beim Herunterladen: %s"
+
+msgctxt "#30020"
+msgid "Download Torrent"
+msgstr "Torrent Download"
+
+msgctxt "#30021"
+msgid "Select Target Directory"
+msgstr "Ziel Verzeichnis wählen"
+
+msgctxt "#30022"
+msgid "Download Video"
+msgstr "Video herunterladen"
+
+msgctxt "#30023"
+msgid "Paste Torrent"
+msgstr "Torrent einfügen"
+
+msgctxt "#30024"
+msgid "Paste a magnet link or an http link to a torrent"
+msgstr "Magnet oder HTTP Link für einen Torrent einfügen"
+
+msgctxt "#30500"
+msgid "Premiumize Customer ID"
+msgstr "Premiumize Kunden ID"
+
+msgctxt "#30501"
+msgid "Premiumize PIN"
+msgstr "Premiumize PIN"
+
+msgctxt "#30502"
+msgid "Use HTTPS"
+msgstr "HTTPS verwenden"
+
+msgctxt "#30503"
+msgid "Show Transcodes"
+msgstr "Zeige Transkodierungen"
+
+msgctxt "#30504"
+msgid "Video Exclusion List (comma separated)"
+msgstr "Video Ausschluss-Liste (Beistrich getrennt)"
+
+msgctxt "#30505"
+msgid "Show Download Progress"
+msgstr "Zeige Download Fortschritt"
+
+msgctxt "#30506"
+msgid "Off"
+msgstr "Aus"
+
+msgctxt "#30507"
+msgid "Window"
+msgstr "Fenster"
+
+msgctxt "#30508"
+msgid "Background"
+msgstr "Hintergrund"
+
+msgctxt "#30509"
+msgid "Prompt for Download Folder"
+msgstr "Download Ordner abfragen"
+
+msgctxt "#30510"
+msgid "Default Download Folder"
+msgstr "Standard Download Ordner"
+
+msgctxt "#30511"
+msgid "Minimum Allowed Video Duration (minutes)"
+msgstr "Minimal erlaubte Video Dauer (Minuten)"
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.premiumize" name="Premiumize.me Addon repository" version="1.1.0" provider-name="Premiumize.me">
+    <extension point="xbmc.addon.repository" name="Premiumize.me Addon repository">
+        <dir minversion="18.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="19.0">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>Premiumize.me Kodi Repository</summary>
+        <description>Premiumize Addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+        <source>https://github.com/reddit-reaper/repository.premiumize.me/</source>
+    </extension>
+</addon>

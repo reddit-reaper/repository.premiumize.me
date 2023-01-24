@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="plugin.video.premiumizemetv" version="0.0.3" name="Premiumize.me TV" provider-name="premiumize.me">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse your Premiumize.me cloud</summary>
+        <description>This addon can be used to browse and stream any videos present in your Premiumize.me cloud</description>
+		<disclaimer>This addon supports Kodi from version Matrix 19.0.</disclaimer>
+        <platform>all</platform>
+        <website>https://www.premiumize.me</website>
+		<news>v0.0.3 renamed addon, fixed add</news>
+		<language>en</language>
+	</extension>
+</addon><addon id="repository.premiumize" name="Premiumize.me Addon repository" version="1.1.0" provider-name="Premiumize.me">
+    <extension point="xbmc.addon.repository" name="Premiumize.me Addon repository">
+        <dir minversion="18.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="19.0">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.premiumize.me/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>Premiumize.me Kodi Repository</summary>
+        <description>Premiumize Addons</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+        <source>https://github.com/reddit-reaper/repository.premiumize.me/</source>
+    </extension>
+</addon></addons>
